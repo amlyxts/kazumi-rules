@@ -5,7 +5,7 @@
     "version": "1.0",
     "muliSources": true,
     "useWebview": true,
-    "resolveViaFlareSolverr": false,
+    "resolveViaFlareSolverr": true,
     "webviewFetch": true,
     "useNativePlayer": true,
     "usePost": false,
@@ -22,5 +22,14 @@
     "referer": "",
     "searchMode": "xpath",
     "chapterMode": "xpath",
-    "antiCrawlerConfig": {"enabled": false, "captchaType": 1, "captchaImage": "", "captchaInput": "", "captchaButton": "", "captchaDetectType": 1, "captchaDetectValue": "", "captchaScript": ""}
+    "antiCrawlerConfig": {
+        "enabled": false,
+        "captchaType": 1,
+        "captchaImage": "",
+        "captchaInput": "",
+        "captchaButton": "",
+        "captchaDetectType": 1,
+        "captchaDetectValue": "",
+        "captchaScript": ""
+    }
 }
