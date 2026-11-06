@@ -110,5 +110,12 @@
     "useNativePlayer": true,
     "author": "KazumiRules",
     "lastUpdate": 0
+  },
+  {
+    "name": "gugu3",
+    "version": "2.0",
+    "useNativePlayer": true,
+    "author": "KazumiRules+local-fix",
+    "lastUpdate": 0
   }
 ]
