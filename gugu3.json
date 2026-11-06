@@ -1,0 +1,20 @@
+{
+    "deprecated": false,
+    "api": "5",
+    "type": "anime",
+    "name": "gugu3",
+    "version": "2.0",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "useLegacyParser": false,
+    "userAgent": "",
+    "adBlocker": true,
+    "baseURL": "https://gugu.fan/",
+    "searchURL": "https://gugu.fan/search?q=@keyword",
+    "searchList": "//article[contains(@class,'search-result-card')]",
+    "searchName": ".//h2",
+    "searchResult": ".//a[contains(@href,'/anime/')]",
+    "chapterRoads": "//div[contains(@class,'detail-page')]",
+    "chapterResult": ".//a[contains(@href,'/watch/')]"
+}
