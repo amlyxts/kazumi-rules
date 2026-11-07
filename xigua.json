@@ -1,9 +1,9 @@
 {
-    "deprecated": true,
+    "deprecated": false,
     "api": "3",
     "type": "anime",
     "name": "xigua",
-    "version": "1.0",
+    "version": "1.1",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
@@ -14,5 +14,6 @@
     "searchName": "//a/div[2]/div[2]",
     "searchResult": "//a",
     "chapterRoads": "//div/div/div/div[2]/div[1]/div[2]/div/div[8]/div[2]",
-    "chapterResult": "//div/a"
+    "chapterResult": "//div/a",
+    "strictSearchMatch": true
 }
