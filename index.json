@@ -124,5 +124,12 @@
     "useNativePlayer": true,
     "author": "amlyxts",
     "lastUpdate": 0
+  },
+  {
+    "name": "BF",
+    "version": "1.0-r2",
+    "useNativePlayer": true,
+    "author": "amlyxts",
+    "lastUpdate": 0
   }
 ]

@@ -1,0 +1,20 @@
+{
+    "deprecated": false,
+    "api": "1",
+    "type": "anime",
+    "name": "BF",
+    "version": "1.1-wv-r2-r3",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": true,
+    "userAgent": "",
+    "baseURL": "https://bilfun.cc/",
+    "searchURL": "https://bilfun.cc/bilfunsearch/-------------.html?wd=@keyword",
+    "searchList": "//div[contains(@class,'myui-vodlist__box')]",
+    "searchName": ".//h4/a",
+    "searchResult": ".//h4/a",
+    "chapterRoads": "//div[contains(@id,'playlist')]",
+    "chapterResult": ".//li/a",
+    "webviewFetch": true,
+    "resolveViaFlareSolverr": true
+}
